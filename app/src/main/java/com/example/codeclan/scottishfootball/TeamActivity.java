@@ -17,5 +17,9 @@ public class TeamActivity extends AppCompatActivity {
         Log.d("TeamActivity: ", team.getName());
     }
 
-    
+
+
+
+
+
 }
